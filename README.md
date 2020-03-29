@@ -23,6 +23,6 @@ each segment will be saved as one-hot vectors
 - Step 2 - Deep Salience approach: use the DeepSalience model from [2] in order to get a multi-pitch contour estimation. From there, we get the estimated numbers of singers.
 ## Evaluation:
 Standard classifier evaluation metrics such as accuracy, F1,.. will be used. In addition, other standard ways of more detailed analysis (such as use of confusion matrices) will be presented.
-[1] https://biblio.ugent.be/publication/8585239/file/8585241.pdf [2] https://github.com/rabitt/ismir2017-deepsalience
-Darius Petermann MIR Task Proposal
+[1] https://biblio.ugent.be/publication/8585239/file/8585241.pdf 
+[2] https://github.com/rabitt/ismir2017-deepsalience
 
