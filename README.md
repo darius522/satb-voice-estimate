@@ -1,9 +1,9 @@
 # satb-voice-estimate
-repository for the MIR class final paper which tackles voice number estimation for SATB choral recordings
+notebook for voice number estimation for SATB choral recordings
 
 Keras model weights and original prediction scripts can be found at [2]. 
 
-Unpublished experiment paper can be found at [3]:
+Unpublished experiment paper can be found at [3]
 
 # Title:
 Source Number Estimation for monoaural SATB choral recording
